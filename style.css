@@ -1,9 +1,9 @@
 .bg-space {
     background-color: #0f000c;
-    background-image: url("/assets/backgrounds/asfalt-light.png");
+    background-image: url("./assets/backgrounds/asfalt-light.png");
 }
 
 .bg-space2 {
     background-color: #0f000c;
-    background-image: url("/assets/backgrounds/diagmonds.png");
+    background-image: url("./assets/backgrounds/diagmonds.png");
 }
